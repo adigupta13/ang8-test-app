@@ -1,0 +1,17 @@
+
+  .online {
+    color: white;
+    border-radius: 1ch;
+    align-content: center   ;
+    padding: 5px;
+    background-color: green;
+    border: darkgreen 5px solid;
+  }
+  .offline {
+    color: white;
+    border-radius: 1ch;
+    align-content: center;
+    padding: 5px;
+    background-color: red;
+    border: maroon 5px solid;
+  }

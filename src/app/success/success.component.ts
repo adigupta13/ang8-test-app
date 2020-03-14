@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
       color: white;
       padding: 5px;
       align-content: center;
-      border: darkgreen 2px solid;
+      border: darkgreen 5px solid;
       border-radius: 1ch;
       background-color: green;
   }`
@@ -19,6 +19,6 @@ export class SuccessComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-  }
+  } 
 
 }
